@@ -12,7 +12,7 @@ AABCD ONE PAIR
 ABCDE FIVE DIFFERENT KINDS
 
 
-To check the following in the decimal system the method  is performed IS X2 chisquare. In the binary sequence , Poker Tate determines
+To check the following in the decimal system the method  is performed is X2 chisquare. In the binary sequence , Poker Tate determines
 whether each sequence of length m appears about the same number of times in the series s as would happen in a random sequence.
 
 Case control:
