@@ -1,0 +1,20 @@
+#Poker Test CODE IN PYTHON
+
+
+
+def Poker_Test(s):
+  m=1
+  if len(s)//m>= 5*(2**m):
+    k=len(s)//m
+  else:
+    m += 1
+    while( len(s)//m < 5*(2**m) ):
+      m +=1
+    k=len(s)//m
+  print(m)
+  print(k)
+  X3=2**m*sum_seq(s,2**m)/k-k
+  print(X3)
+  if X3 > 14.0671: return "fail"
+  else: return "random"
+
